@@ -1,0 +1,8 @@
+{
+  "name": "Remix Zero Hour: CQB Tactical Breach",
+  "description": "3D tactical first-person shooter with HK416 \u0026 Glock 17 ballistics, Rainbow Six style leaning, procedural collision-safe CQB maps, strict line-of-sight AI combatants, and directional blood splatter physics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
